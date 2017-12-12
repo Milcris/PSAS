@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Milcris/PSAS.png?columns=all)](https://waffle.io/Milcris/PSAS?utm_source=badge)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Milcris/PSAS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
